@@ -12,4 +12,4 @@ For Decompression -
 3.Decompressed file will be generated with name Decompressed.txt
 
 Result -
-On average every text file get compressed upto 50% of total size.
+On average every text file get compressed upto 50 % to 60 % of total size.
