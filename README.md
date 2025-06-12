@@ -4,7 +4,7 @@ For Compression -
 1.Run compress.exe or compile source code
 2.Enter name of file to compress
 
-**Note - Compressed File generated after compression will have .cmp extension
+**Note - Compressed File generated after compression will have .cmp extension and Code.txt file which later you can decompress the code file. In Code.txt you have character with huffmancodes.
 
 For Decompression -
 1.Run decompress.exe or compile source code
